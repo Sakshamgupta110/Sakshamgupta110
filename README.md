@@ -1,6 +1,6 @@
 # 👨‍💻 Saksham's Portfolio
 
-Welcome to my GitHub profile! I’m **Saksham**, a **Full-Stack Developer** passionate about creating scalable web and mobile applications. I’m constantly learning and building projects using modern technologies. Feel free to check out my work below!
+Welcome to my GitHub profile! I’m **Saksham**, a **Full-Stack Developer** who loves creating scalable web and mobile applications. I’m passionate about solving complex problems with modern technologies. Feel free to explore my work below.
 
 🚀 **Live Portfolio:**  
 [Click here to explore my portfolio](https://itsaksham.netlify.app)
@@ -9,17 +9,29 @@ Welcome to my GitHub profile! I’m **Saksham**, a **Full-Stack Developer** pass
 
 ## 🧑‍💻 About Me
 
-I am a passionate full-stack developer who loves solving complex problems and building innovative solutions. I enjoy learning new technologies and exploring different domains, from web development to mobile apps. When I'm not coding, you can find me exploring new tech trends or solving problems on coding platforms like LeetCode and HackerRank.
+I’m a developer focused on building impactful solutions with modern technologies. I aim to solve real-world problems while continuously learning and improving.
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript, Python, C++, Java, HTML, CSS, SQL, Kotlin
-- **Frontend:** React.js, Next.js, React Native, HTML5 & CSS3, Vite.js
-- **Backend:** Node.js, Express.js, Django, REST API Development
-- **Databases:** MongoDB, MySQL
-- **Cloud & Tools:** AWS, Docker, Git, GitHub, VSCode, Android Studio
+- **Languages:**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
+  ![Python](https://img.shields.io/badge/Python-%2337767E.svg?style=flat&logo=python&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat&logo=java&logoColor=white)
+
+- **Frontend:**  
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+
+- **Backend:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+
+- **Databases:**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
+- **Cloud & Tools:**  
+  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=FF9900)
 
 ---
 
@@ -29,40 +41,17 @@ I am a passionate full-stack developer who loves solving complex problems and bu
 
 ---
 
-## 🏅 Certifications & Contributions
-
-- ![HackerRank](https://img.shields.io/badge/HackerRank-6--star-green)
-- ![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-FCC--Certificate-blue)
-
----
-
 ## 📊 GitHub Stats
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true)
+![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=gruvbox&hide_title=true)
 
 ---
 
-## 📸 Animated Preview
+## 💬 Let's Connect
 
-Here's a sneak peek at the animation effects and transitions in my portfolio:
-
-![Portfolio Animation](https://media.giphy.com/media/12345/giphy.gif)
-
----
-
-## 📚 Currently Learning
-
-- Cloud Architecture on **AWS**
-- Advanced **React** & **Redux**
-- Mobile Development with **React Native**
-
----
-
-## 💬 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/saksham/)
-- [Twitter](https://twitter.com/saksham)
-- [Email](mailto:saksham@example.com)
+- 📧 **Email:** [saksham@example.com](mailto:saksham@example.com)
+- 🔗 **LinkedIn:** [Saksham's LinkedIn](https://www.linkedin.com/in/saksham/)
+- 🐦 **Twitter:** [@saksham](https://twitter.com/saksham)
 
 ---
 
@@ -70,4 +59,4 @@ Here's a sneak peek at the animation effects and transitions in my portfolio:
 
 Visit my live portfolio [here](https://itsaksham.netlify.app) to explore all the features, animations, and my latest projects in action!
 
-**Happy Coding!** 🚀✨
+**Happy Coding!** 🚀
