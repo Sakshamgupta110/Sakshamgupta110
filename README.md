@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋 I'm Saksham</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -26,10 +27,10 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,django,mongodb,git,github,html,css,tailwind,aws,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,react,nextjs,nodejs,django,mongodb,git,github,html,css,tailwind,aws,vscode" />
 </p>
 
 ---
@@ -46,9 +47,9 @@
 
 ## 📚 Currently Learning
 
-- 🔁 TypeScript for scalable frontend  
-- 📱 Flutter for cross-platform mobile apps  
-- ☁️ AWS & DevOps practices
+- ⚛️ React Native for cross-platform mobile apps  
+- ⛅ Deeper understanding of AWS and cloud services  
+- 🎨 UI/UX design practices
 
 ---
 
@@ -64,7 +65,7 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sakshamgupta2266?theme=dark&animation=true&font=Fira+Code&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/saksham110?theme=dark&animation=true&font=Fira+Code&ext=contest" />
 </p>
 
 ---
