@@ -1,62 +1,84 @@
-# 👨‍💻 Saksham's Portfolio
-
-Welcome to my GitHub profile! I’m **Saksham**, a **Full-Stack Developer** who loves creating scalable web and mobile applications. I’m passionate about solving complex problems with modern technologies. Feel free to explore my work below.
-
-🚀 **Live Portfolio:**  
-[Click here to explore my portfolio](https://itsaksham.netlify.app)
-
----
-
-## 🧑‍💻 About Me
-
-I’m a developer focused on building impactful solutions with modern technologies. I aim to solve real-world problems while continuously learning and improving.
+<h1 align="center">Hi 👋 I'm Saksham</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast+%7C+Problem+Solver;Building+Web+%26+Mobile+Apps;Open+to+Exciting+Opportunities" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🤝 Connect With Me
 
-- **Languages:**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
-  ![Python](https://img.shields.io/badge/Python-%2337767E.svg?style=flat&logo=python&logoColor=white) 
-  ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=flat&logo=java&logoColor=white)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/saksham110/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:sakshamgupta2266@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://twitter.com/saksham">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://itsaksham.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
 
-- **Frontend:**  
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+---
 
-- **Backend:**  
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+## 🛠️ Languages & Tools
 
-- **Databases:**  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,django,mongodb,git,github,html,css,tailwind,aws,docker,vscode" />
+</p>
 
-- **Cloud & Tools:**  
-  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=FF9900)
+---
+
+## 🚀 Projects
+
+- 📘 **StuDex Portal** – Role-based academic portal built with **Next.js**, **Django**, and **AWS**  
+- 📦 **Inventory Management System** – Backend APIs with **Node.js** and **MongoDB**, using JWT auth  
+- 🚌 **BusTrek** – Full-stack bus tracking system using **React**, **Django**, and **Vite**
+
+🧠 More on my portfolio → [itsaksham.netlify.app](https://itsaksham.netlify.app/#projects)
+
+---
+
+## 📚 Currently Learning
+
+- 🔁 TypeScript for scalable frontend  
+- 📱 Flutter for cross-platform mobile apps  
+- ☁️ AWS & DevOps practices
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamgupta110&show_icons=true&theme=github_dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamgupta110&layout=compact&theme=github_dark" width="40%"/>
+</div>
 
 ---
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=yourLeetCodeUsername&theme=light&animation=wave)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sakshamgupta2266?theme=dark&animation=true&font=Fira+Code&ext=contest" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
-![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=gruvbox&hide_title=true)
-
----
-
-## 💬 Let's Connect
-
-- 📧 **Email:** [saksham@example.com](mailto:saksham@example.com)
-- 🔗 **LinkedIn:** [Saksham's LinkedIn](https://www.linkedin.com/in/saksham/)
-- 🐦 **Twitter:** [@saksham](https://twitter.com/saksham)
+<img src="https://github.com/sakshamgupta110/sakshamgupta110/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 
 ---
 
-### 🎨 Want to See More?
+## 👀 Visitor Counter
 
-Visit my live portfolio [here](https://itsaksham.netlify.app) to explore all the features, animations, and my latest projects in action!
+<img src="https://u8views.com/api/v1/github/profiles/91275232/views/day-week-month-total-count.svg">
 
-**Happy Coding!** 🚀
+---
+
+**Thanks for visiting! Let's build something awesome together. 🚀**
